@@ -6,7 +6,7 @@ This is a simple and responsive weather app built using **HTML**, **CSS**, and *
 
 ## 🔗 Live Demo
 
-[👉 Click here to view the live app](#) <!-- Replace with your deployed URL -->
+https://prabhashpurohit.github.io/PRODIGY_WD_05/
 
 ---
 
